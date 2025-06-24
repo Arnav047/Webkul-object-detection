@@ -1,0 +1,5 @@
+train: images/train
+val: images/test   # or rename test → val for now
+
+nc: 4
+names: ['apple', 'orange', 'mango','kiwi']
